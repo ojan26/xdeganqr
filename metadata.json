@@ -1,0 +1,6 @@
+{
+  "name": "X-Degan QR",
+  "description": "Aplikasi Absensi Mandiri dengan Pemindaian dan Pembuatan QR Code secara Real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
